@@ -20,8 +20,8 @@ Estou sempre aberta para conversar sobre tecnologia, inovação ou qualquer cois
 
 <div align="center">
   <a href="https://github.com/DevJenniferPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenniballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenniballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjenniferpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjenniferpereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
