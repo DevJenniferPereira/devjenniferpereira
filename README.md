@@ -1,12 +1,13 @@
 <h1 align="center">Olá, eu sou a Jennifer 💜</h1>
-<h4 align="right">💕 Apaixonada por programação! 💕</h4>
-
 <a href="https://github.com/devjenniferpereira/">
   <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
 </a>
 <a href="https://www.linkedin.com/in/devjenniferp/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+<h4 align="right">💕 Apaixonada por programação! 💕</h4>
+
+
 <br><br>
 
 Atualmente, estou imersa nos estudos como estudante de tecnologia da informação no IFSP São José do Rio Preto.
