@@ -27,9 +27,11 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
 
 <div align="center">
   <a href="https://github.com/DevJenniferPereira"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjenniferpereira&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/DevJenniferPereira/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/DevJenniferPereira/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/DevJenniferPereira/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </div>
