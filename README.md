@@ -33,5 +33,5 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
 
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/DevJenniferPereira/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/DevJenniferPereira/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/DevJenniferPereira/rafaballerini/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/marilliadantas/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </div>
