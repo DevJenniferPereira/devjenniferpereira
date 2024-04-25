@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Jennifer 💜</h1>
-<h4 align="right">💕 Apaixonada por porgramaçõa! 💕</h4>
+<h4 align="right">💕 Apaixonada por progamação! 💕</h4>
 
 <a href="https://github.com/devjenniferpereira/">
   <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
