@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Jennifer 💜</h1>
+<h1 align="center">Olá, eu sou a Jennifer <img align="right" alt="octacat-gif" height="150" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"></h1>
 <img align="right" alt="octacat-gif" height="50" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 <h5 align="right">💕 Apaixonada por programação! 💕</h5>
 <hr style="color: #110022">
