@@ -1,10 +1,11 @@
 <h1 align="center">Olá, eu sou a Jennifer 💜</h1>
+<h5 align="right">💕 Apaixonada por programação! 💕</h5>
+<hr style="#110022">
 <a href="https://github.com/devjenniferpereira/">
   <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
 </a>
 
-<h5 align="right">💕 Apaixonada por programação! 💕</h5>
-<hr style="#110022">
+
 
 <br><br>
 
