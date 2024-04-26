@@ -8,19 +8,14 @@
 
 <br><br>
 
-Atualmente, estou imersa nos estudos como estudante de tecnologia da informação no IFSP São José do Rio Preto.
+<div style="max-width: 70%;">
+  Atualmente, estou imersa nos estudos como estudante de tecnologia da informação no IFSP São José do Rio Preto.
 
 💻 O Que Me Move:
 Amor pela Programação: Desde que entrei nesse mundo mágico do código, não consigo mais parar de me encantar com suas infinitas possibilidades.
 Curiosidade Sem Limites: Cada linha de código é uma nova aventura, e estou sempre ansiosa para desvendar seus mistérios.
 Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+</div>
 
 <br/>
 
@@ -30,6 +25,7 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jenni-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
