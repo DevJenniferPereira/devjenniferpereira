@@ -4,7 +4,7 @@
 </a>
 
 <h5 align="right">💕 Apaixonada por programação! 💕</h5>
-
+<hr style="#110022">
 
 <br><br>
 
