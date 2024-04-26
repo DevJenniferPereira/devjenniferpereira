@@ -34,7 +34,7 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
   <img align="center" alt="Jenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Jenni-picture" height="150" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/68968414?v=4">
+  <img align="right" alt="octacat-svg" height="150" style="border-radius:50%" src="https://gist.githubusercontent.com/johan/1007813/raw/a25829510f049194b6404a8f98d22978e8744a6f/octocat.svg">
 </div>
 
   ##
