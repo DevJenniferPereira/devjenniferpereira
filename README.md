@@ -33,7 +33,7 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
   <img align="right" alt="octacat-svg" height="150" style="border-radius:50%" src="https://gist.githubusercontent.com/johan/1007813/raw/a25829510f049194b6404a8f98d22978e8744a6f/octocat.svg">
 </div>
 <br>
-  ##
+  
 
 <div>
    <a href="https://instagram.com/devjenp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
