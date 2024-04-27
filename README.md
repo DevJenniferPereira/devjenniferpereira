@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Jennifer U+1F338</h1>
+<h1 align="center">Olá, eu sou a Jennifer 🌸 </h1>
 <h5 align="right">Apaixonada por programação! -`♡´- </h5>
 <br><br>
 Atualmente, estou imersa nos estudos como estudante de tecnologia da informação no IFSP São José do Rio Preto.<br>
