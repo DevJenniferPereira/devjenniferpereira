@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Jennifer</h1>
-<h5>Apaixonada por programação! -`♡´- </h5>
+<h5 align="left">Apaixonada por programação! -`♡´- </h5>
 
 
 
@@ -19,9 +19,10 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
 
 <div align="center">
   <a href="https://github.com/DevJenniferPereira">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&show_icons=true&theme=Dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compact&langs_count=7&theme=Dracula"/>
 </div>
+    <br><br><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jenni-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
