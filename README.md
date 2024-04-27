@@ -3,13 +3,15 @@
 
 
 
-Estou imersa nos estudos como aluna de tecnologia da informação no [IFSP - Campus São José do Rio Preto](https://github.com/IFSP-SaoJosedoRioPreto)."
+Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - Campus São José do Rio Preto**](https://github.com/IFSP-SaoJosedoRioPreto)."
 
-💻 O Que Me Move:
+💻 **O Que Me Move:**
 
-Amor pela Programação: Desde que entrei nesse mundo mágico do código, não consigo mais parar de me encantar com suas infinitas possibilidades.
-Curiosidade Sem Limites: Cada linha de código é uma nova aventura, e estou sempre ansiosa para desvendar seus mistérios.
-Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.
+***Amor pela Programação:*** *Desde que entrei nesse mundo mágico do código, não consigo mais parar de me encantar com suas infinitas possibilidades.*
+
+***Curiosidade Sem Limites:*** *Cada linha de código é uma nova aventura, e estou sempre ansiosa para desvendar seus mistérios.*
+
+***Diversão no Processo:*** *Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.*
 
 <hr>
 
