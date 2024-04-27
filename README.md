@@ -3,7 +3,7 @@
 
 
 
-Estou imersa nos estudos como aluna de tecnologia da informação no [@IFSP](https://github.com/IFSP-SaoJosedoRioPreto) São José do Rio Preto."
+Estou imersa nos estudos como aluna de tecnologia da informação no [IFSP - Campus São José do Rio Preto](https://github.com/IFSP-SaoJosedoRioPreto)."
 
 💻 O Que Me Move:
 
