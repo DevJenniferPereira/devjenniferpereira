@@ -1,6 +1,5 @@
-<h1 align="center">Olá, eu sou a Jennifer <img align="right" alt="octacat-gif" height="150" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif"></h1>
-<img align="right" alt="octacat-gif" height="50" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
-<h5 align="right">💕 Apaixonada por programação! 💕</h5>
+<h1 align="center">Olá, eu sou a Jennifer</h1>
+<h5 align="right" style="padding: 10px; color: #e292ce; background-color: #000000; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; max-width: 200px;">Apaixonada por programação! 💕</h5><img align="right" alt="octacat-gif" height="40" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 <hr style="color: #110022">
 <a href="https://github.com/devjenniferpereira/">
   <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
@@ -39,12 +38,12 @@ Diversão no Processo: Programar é como desvendar um quebra-cabeça divertido, 
 <br>
   
 
-<div>
-   <a href="https://instagram.com/devjenp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
-  <a href = "mailto:devjenniferpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--Botão E-mail -->
-  <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
+<div> 
+   <a href="https://instagram.com/devjenp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
+  <a href = "mailto:devjenniferpereira@gmail.com"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--Botão E-mail -->
+  <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
 
 </div>
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;"></a>
 </div>
