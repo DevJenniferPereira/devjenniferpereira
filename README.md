@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou a Jennifer 🌸 </h1>
-<h5 align="right">Apaixonada por programação! -`♡´- </h5>
+<h5 align="right">Apaixonada por programação! -`♡´- </h5>  <img align="right" alt="octacat-gif" height="50" src="https://github.com/images/mona-whisper.gif">
+
 
 
 
