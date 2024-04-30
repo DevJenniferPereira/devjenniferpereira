@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C34EF7&random=false&width=435&lines=Hello+dear!+%F0%9F%A4%97;Eu+sou+a+Jennifer++-%60%E2%99%A1%C2%B4-;Un+entusiasta+de+la+tecnolog%C3%ADa;Apaixonada+por+programa%C3%A7%C3%A3o!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<h1 style="center"><img align="center" alt="octacat-gif" height="50" src="https://github.com/images/mona-whisper.gif"></h1>
+<h1 align="center"><img align="center" alt="octacat-gif" height="50" src="https://github.com/images/mona-whisper.gif"></h1>
 
 
 
