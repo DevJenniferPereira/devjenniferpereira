@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C34EF7&random=false&width=435&lines=Hello+dear!+;Eu+sou+a+Jennifer+;+Un+simple+entusiasta+de+la+tecnolog%C3%ADa%2C+apasionado+de+los+c%C3%B3digos.)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C34EF7&random=false&width=435&lines=Hello+dear!+;Eu+sou+a+Jennifer+;+Un+simple+entusiasta+de+la+tecnolog%C3%ADa%2C+apasionado+de+los+c%C3%B3digos.)](https://git.io/typing-svg)
 <h5 align="right">Apaixonada por programação! -`♡´- </h5>  <img align="right" alt="octacat-gif" height="50" src="https://github.com/images/mona-whisper.gif">
 
 
