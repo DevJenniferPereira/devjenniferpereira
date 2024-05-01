@@ -12,7 +12,7 @@ Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - C
 
 ***Diversão no Processo:*** *Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.*
 <h1> </h1>
-<hr>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevJenniferPereira&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
