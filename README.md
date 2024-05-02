@@ -20,7 +20,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevJenniferPereira&theme=cobalt&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=EBEBEB&currStreakLabel=57ACEB&currStreakNum=57ACEB" alt="GitHub Streak" /></a>
 </p>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jenni-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,7 +32,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
   <img align="right" alt="octacat-gif" height="75" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 </h1>
 
-<div> 
+<div align="center"> 
    <a href="https://instagram.com/devjenp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
   <a href = "mailto:devjenniferpereira@gmail.com"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--Botão E-mail -->
   <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
