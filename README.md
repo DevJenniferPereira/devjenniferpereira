@@ -13,14 +13,12 @@ Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - C
 ***Diversão no Processo:*** *Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.*
 <h1> </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&theme=jolly&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevJenniferPereira&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://github.com/DevJenniferPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjenniferpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compact&langs_count=7&theme=dracula"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&theme=jolly&show_icons=true)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DevJenniferPereira&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 
