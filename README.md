@@ -1,12 +1,12 @@
 <h1 align="center"><img alt="octacat-gif" height="70" src="https://github.com/images/mona-whisper.gif"></h1>
 
-<p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA00F7&random=false&width=435&lines=Hey+there!+%F0%9F%A4%97;Me+chamo+Jennifer;Estou+feliz+em+ver+voc%C3%AA+por+aqui!+%F0%9F%A5%B0;Pegue+seu+caf%C3%A9+e+fique+%C3%A0+vontade.+%E2%98%95" alt="Typing SVG" />
   </a>
 </p>
 
-Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - Campus São José do Rio Preto**](https://github.com/IFSP-SaoJosedoRioPreto).
+Atualmente estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - Campus São José do Rio Preto**](https://github.com/IFSP-SaoJosedoRioPreto).
 
 💻 **O Que Me Move:**
 
