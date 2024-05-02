@@ -15,7 +15,9 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 ***Diversão no Processo:*** *Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.*
 
 <h1> </h1>
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevJenniferPereira&theme=jolly&hide_border=verdadeiro&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=47%2CE900DA%2C3419B6&currStreakNum=FB77FF&etiquetas%20laterais=EB3099" alt="GitHub Streak" /></a>
+</p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&theme=jolly&show_icons=true)
   [![GitHub Streak](https://streak-stats.demolab.com?user=DevJenniferPereira&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
