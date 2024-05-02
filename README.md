@@ -23,9 +23,9 @@ Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - C
   <img align="center" alt="Jenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="octacat-gif" height="150" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 </div>
-<h1> </h1>
+<h1>  <img align="right" alt="octacat-gif" height="150" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
+ </h1>
 <div> 
    <a href="https://instagram.com/devjenp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
   <a href = "mailto:devjenniferpereira@gmail.com"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--Botão E-mail -->
