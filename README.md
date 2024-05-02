@@ -19,8 +19,6 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevJenniferPereira&theme=cobalt&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FB77FF&background=0D1117&ring=BD12EB&fire=BD12EB&currStreakLabel=FB77FF&sideLabels=D999FF&dates=70C3EB" alt="GitHub Streak" /></a>
 </p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DevJenniferPereira&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Jenni-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
