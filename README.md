@@ -26,7 +26,7 @@ Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - C
 </div>
 
 <h1>  
-  <img align="right" alt="octacat-gif" height="150" style="border-radius: 25px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
+  <img align="right" alt="octacat-gif" height="75" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 </h1>
 
 <div> 
