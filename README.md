@@ -15,8 +15,9 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 ***Diversão no Processo:*** *Programar é como desvendar um quebra-cabeça divertido, e estou sempre procurando formas de tornar o processo ainda mais empolgante.*
 
 <h1> </h1>
+
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevJenniferPereira&theme=cobalt&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=FB77FF&background=0D1117&ring=BD12EB&fire=BD12EB&currStreakLabel=FB77FF&sideLabels=D999FF&dates=70C3EB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DevJenniferPereira&theme=cobalt&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=EBEBEB&currStreakLabel=57ACEB&currStreakNum=57ACEB" alt="GitHub Streak" /></a>
 </p>
 
 <div style="display: inline_block"><br>
