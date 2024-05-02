@@ -15,11 +15,9 @@ Estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - C
 
 
 
-<div align="center">
-  
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJenniferPereira&theme=jolly&show_icons=true)
   [![GitHub Streak](https://streak-stats.demolab.com?user=DevJenniferPereira&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
 
 
  
