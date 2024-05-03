@@ -28,9 +28,9 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
   <img align="center" alt="Jenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
- <p align="center">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
- </p>
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compact)
+
 <h1>  
   <img align="right" alt="octacat-gif" height="75" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 </h1>
