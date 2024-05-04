@@ -29,7 +29,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 </div>
 
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&layout=compacttheme=midnight-purple&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&dates=EBEBEB&currStreakLabel=57ACEB&currStreakNum=57ACEB)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&amp;theme=cobalt&amp;hide_border=true&amp;border_radius=0&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=0D1117&amp;dates=EBEBEB&amp;currStreakLabel=57ACEB&amp;currStreakNum=57ACEB)
 
    <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevJenniferPereira" />
