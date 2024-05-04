@@ -17,7 +17,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 <h1> </h1>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=midnight-purple" alt="GitHub Streak" /></a>
+<img src="https://camo.githubusercontent.com/650ebea8756e77d87b7c5ac92e62e566ae632eca8ba5e425dba6c0a95bf68917/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4465764a656e6e6966657250657265697261267468656d653d636f62616c7426686964655f626f726465723d7472756526626f726465725f7261646975733d3026646174655f666f726d61743d4d2532306a25354225324325323059253544266261636b67726f756e643d3044313131372664617465733d454245424542266375727253747265616b4c6162656c3d353741434542266375727253747265616b4e756d3d353741434542" alt="GitHub Streak" data-canonical-src="https://streak-stats.demolab.com?user=DevJenniferPereira&amp;theme=cobalt&amp;hide_border=true&amp;border_radius=0&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=0D1117&amp;dates=EBEBEB&amp;currStreakLabel=57ACEB&amp;currStreakNum=57ACEB" style="max-width: 100%;">
 </p>
 
 <div align="center" style="display: inline_block"><br/>
