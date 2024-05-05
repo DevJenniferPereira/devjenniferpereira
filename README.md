@@ -38,10 +38,6 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
   <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
 </div>
 
-
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/DevJenniferPereira/snk/output/github-contribution-grid-snake-dark.svg"><img src="https://raw.githubusercontent.com/DevJenniferPereira/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;"></a>
-
-
 <a href="https://github.com/devjenniferpereira/">
   <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
 </a>
