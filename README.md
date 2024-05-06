@@ -38,6 +38,17 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
   <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
 </div>
 
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DevJenniferPereira/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DevJenniferPereira" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DevJenniferPereira&theme=dracula&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
 <a href="https://github.com/devjenniferpereira/">
   <img align="left" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
 </a>
