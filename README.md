@@ -28,7 +28,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jennifer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevJenniferPereira&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=E683D9&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a></p>
 <p align="center">  
-<a align="center" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jennifer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DevJenniferPereira&bg_color=0D1117&color=E683D9&line=E683D9&point=FFFFFF&hide_border=true" /></a></p>
+<a align="center" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jennifer's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DevJenniferPereira&bg_color=0D1117&color=57ACEB&line=E683D9&point=FFFFFF&hide_border=true" /></a></p>
   
   <br/>  
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
