@@ -1,7 +1,7 @@
 <h1 align="center"><img alt="octacat-gif" height="70" src="https://github.com/images/mona-whisper.gif"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=AA00F7&center=true&random=false&width=435&lines=Hey+there!+%F0%9F%A4%97;My+name+is+Jennifer;Full-Stack+Developer+%F0%9F%92%9C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=E683D9&center=true&random=false&width=435&lines=Hey+there!+%F0%9F%A4%97;My+name+is+Jennifer;Full-Stack+Developer+%F0%9F%92%9C" alt="Typing SVG" /></a>
 </p>
 
 Atualmente estou imersa nos estudos como aluna de tecnologia da informação no [**IFSP - Campus São José do Rio Preto**](https://github.com/IFSP-SaoJosedoRioPreto).
