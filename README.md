@@ -19,8 +19,8 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
   <h3>💻 GitHub Profile Stats</h3>
 
 <p>
-          <img src="https://streak-stats.demolab.com?user=DevJenniferPereira&amp;theme=cobalt&amp;hide_border=true&amp;border_radius=0&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=0D1117&amp;dates=EBEBEB&amp;currStreakLabel=57ACEB&amp;currStreakNum=57ACEB" height="172px" style="max-width: 55%;">
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jennifer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DevJenniferPereira&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=E683D9&icon_color=F8D866" height="172px"/></a>
+          <img src="https://streak-stats.demolab.com?user=DevJenniferPereira&amp;theme=cobalt&amp;hide_border=true&amp;border_radius=0&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=0D1117&amp;dates=EBEBEB&amp;currStreakLabel=57ACEB&amp;currStreakNum=57ACEB" height="170px" style="max-width: 55%;">
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jennifer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DevJenniferPereira&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=E683D9&icon_color=F8D866" height="170px"/></a>
 </p>
 
 
