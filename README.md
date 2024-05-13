@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=header"/><br>
 <h1 align="center"><img alt="octacat-gif" height="70" src="https://github.com/images/mona-whisper.gif"></h1>
 
 <p align="center">
@@ -46,6 +47,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
    <a href="https://instagram.com/devjenp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
   <a href = "mailto:devjenniferpereira@gmail.com"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--Botão E-mail -->
   <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
-</div>
+</div><br>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=footer"/>
