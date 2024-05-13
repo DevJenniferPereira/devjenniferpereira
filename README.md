@@ -33,7 +33,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <p align="center"><br>
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,python,mysql,mint,windows" />
   </a>
 
