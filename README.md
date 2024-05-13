@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=header"/><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E683D9&height=80&section=header"/><br>
 <h1 align="center"><img alt="octacat-gif" height="70" src="https://github.com/images/mona-whisper.gif"></h1>
 
 <p align="center">
@@ -50,4 +50,4 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 </div><br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E683D9&height=80&section=footer"/>
