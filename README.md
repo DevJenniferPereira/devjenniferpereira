@@ -37,7 +37,7 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,python,mysql,mint,windows" />
 </p>
 
-  <img height="150em" src="https://lanyard.cnrad.dev/api/" />
+  <img height="150em" src="https://lanyard.cnrad.dev/api/998308954029437070" />
 
 
 <h1>  
