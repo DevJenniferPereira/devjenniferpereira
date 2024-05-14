@@ -35,7 +35,10 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 
 <p align="center"><br>
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,python,mysql,mint,windows" />
-  </a>
+</p>
+
+  <img height="150em" src="https://lanyard.cnrad.dev/api/" />
+
 
 <h1>  
   <img align="right" alt="octacat-gif" height="75" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
