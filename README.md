@@ -39,6 +39,11 @@ Atualmente estou imersa nos estudos como aluna de tecnologia da informação no 
 
   <img height="150em" src="https://lanyard.cnrad.dev/api/998308954029437070" />
 
+<div align="center">
+  <a href="https://github.com/DevJenniferPereira">
+  <img height="150em" src="https://lanyard.cnrad.dev/api/998308954029437070" />
+</div>
+
 
 <h1>  
   <img align="right" alt="octacat-gif" height="75" style="border-radius: 50px;" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
